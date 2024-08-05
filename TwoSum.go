@@ -1,3 +1,7 @@
+package main
+import "fmt"
+
+
 func twoSum(nums []int, target int) []int {
 	a := make(map[int]int)
     for i:= 0; i<len(nums); i++{
@@ -26,3 +30,12 @@ temp := target
 	}
 	return []int{}
 */
+
+func main(){
+	var a [3]int
+	for i:= 0; i<len(a); i++{
+		fmt.Scanf("%v", &a[i])
+	}
+	var target int
+	fmt.Scanf("%d", &target)
+}
