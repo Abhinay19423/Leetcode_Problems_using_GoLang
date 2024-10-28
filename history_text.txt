@@ -1,0 +1,30 @@
+  clear
+  196  git status
+  197  git pull
+  198  git status
+  199  git diff
+  200  git
+  201  git show
+  202  git pull
+  203  history 10
+  204  history 20
+  205  git fetch origin main
+  206  history 30
+  207  git status
+  208  git log HEAD..origin/main
+  209  git log HEAD..origin/head
+  210  git merge origin/main
+  211  git merge origin/main --allow-unrelated histories
+  212  git merge origin/main --allow-unrelated
+  213  clear
+  214  git status
+  215  git commit -a
+  216  clear
+  217  git status
+  218  cat TwoSum.go
+  219  clear
+  220  git staus
+  221  git status
+  222  git push
+  223  history 10
+  224  history 30
